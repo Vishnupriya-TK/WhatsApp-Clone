@@ -8,7 +8,7 @@ It showcases a complete user flow — from splash and login to chatting, calls, 
 
 ## 🌐 **Live Demo**
 
-🎯 **[View Figma Prototype](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=orLB7HwR4SFsAI1Y-1)**
+🎯 **[View Figma Prototype](https://www.figma.com/design/WyxQKyAGgNdUL7zFHaxI3Q/WhatsApp-Clone?node-id=0-1&t=hpQi1tsj8n5s4Eys-1)**
 
 
 ---
